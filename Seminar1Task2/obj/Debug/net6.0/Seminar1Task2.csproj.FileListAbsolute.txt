@@ -1,0 +1,15 @@
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.deps.json
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.runtimeconfig.json
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.dll
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.pdb
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.csproj.AssemblyReference.cache
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.AssemblyInfoInputs.cache
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.AssemblyInfo.cs
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.csproj.CoreCompileInputs.cache
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.dll
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/refint/Seminar1Task2.dll
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.pdb
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.genruntimeconfig.cache
+/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/Debug/net6.0/ref/Seminar1Task2.dll

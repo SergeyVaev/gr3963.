@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/Seminar1Task2.csproj": {}
+    "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task2/Seminar1Task2.csproj": {}
   },
   "projects": {
-    "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/Seminar1Task2.csproj": {
+    "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task2/Seminar1Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/Seminar1Task2.csproj",
+        "projectUniqueName": "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task2/Seminar1Task2.csproj",
         "projectName": "Seminar1Task2",
-        "projectPath": "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/Seminar1Task2.csproj",
+        "projectPath": "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task2/Seminar1Task2.csproj",
         "packagesPath": "/Users/sergeyvaev/.nuget/packages/",
-        "outputPath": "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task2/obj/",
+        "outputPath": "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sergeyvaev/.nuget/NuGet/NuGet.Config"

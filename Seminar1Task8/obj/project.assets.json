@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task8/Seminar1Task8.csproj",
+      "projectUniqueName": "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task8/Seminar1Task8.csproj",
       "projectName": "Seminar1Task8",
-      "projectPath": "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task8/Seminar1Task8.csproj",
+      "projectPath": "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task8/Seminar1Task8.csproj",
       "packagesPath": "/Users/sergeyvaev/.nuget/packages/",
-      "outputPath": "/Users/sergeyvaev/Desktop/группа 3963/Seminar1Task8/obj/",
+      "outputPath": "/Users/sergeyvaev/Desktop/Группа 3963./Seminar1Task8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sergeyvaev/.nuget/NuGet/NuGet.Config"

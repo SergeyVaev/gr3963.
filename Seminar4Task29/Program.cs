@@ -7,7 +7,7 @@ int ReadData (string msg)//Ввод числа с экрана
     return int.Parse(Console.ReadLine()??"0");//приводим к числу
 }
 //Метод для получения случайных значений массива
-int[] GenArr(int len, int minValue, int maxValue)
+int[] Gen1DArr(int len, int minValue, int maxValue)
 {
     Random rnd = new Random();
     int[] arr = new int[len];// объявляем массив
@@ -29,5 +29,5 @@ void Print1DArr(int[] arr)
 int Length = ReadData("Укажите диапазон длинны массива");
 int minValue = ReadData("Минимальное значение");
 int maxValue = ReadData("Максимальное значение");
-int[] arr = GenArr( Length, minValue, maxValue);//заполнение массива случайными числами 
+int[] arr = Gen1DArr( Length, minValue, maxValue);//заполнение массива случайными числами 
 Print1DArr(arr);// вывод результата
